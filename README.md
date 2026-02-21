@@ -23,5 +23,5 @@ Exploring the depths of CS with C while building modern apps with C# and Swift.
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile URL]
+- **LinkedIn:** https://www.linkedin.com/in/joji-kashimura-765525196/
 - **Location:** New York, NY
