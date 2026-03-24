@@ -1,7 +1,7 @@
 # Hi there, I'm Joji Kashimura (Jojicoder) 👋
 ### 🗽 Software Engineering Student in New York City
 
-C言語でコンピュータの深淵を覗きつつ、C#やSwiftで実用的なアプリケーションを構築しているエンジニア・学生です。
+C言語でコンピュータの深淵を覗きつつ、Java,C#やSwiftで実用的なアプリケーションを構築しているエンジニア・学生です。
 Exploring the depths of CS with C while building modern apps with C# and Swift.
 
 ---
