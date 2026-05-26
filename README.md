@@ -19,7 +19,7 @@ I enjoy working on real-world software projects while strengthening my computer 
 ## 🛠 Tech Stack
 
 - **Languages:** C, C++, C#, Java, Swift, SQL
-- **Tools:** VS Code, Git, GitHub, MySQL, AWS
+- **Tools:** VS Code, Git, GitHub, MySQL
 
 ---
 
