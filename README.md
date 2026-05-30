@@ -1,87 +1,143 @@
+<div align="center">
+
 # Hi, I'm Jojicoder 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Student+in+New+York;Building+iOS+and+Web+Applications;C%23+%7C+Swift+%7C+Java+%7C+SQL;Learning+CS+Fundamentals+Through+C" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+in+New+York;Building+Full-Stack+and+iOS+Applications;C%23+%7C+Swift+%7C+Java+%7C+TypeScript+%7C+SQL;Focused+on+Clean+Design+and+Practical+Software" />
 
-I'm a software engineering student in New York City, building practical applications with **C#**, **Swift**, **Java**, and **SQL**.
+<br>
 
-I enjoy working on real-world software projects while strengthening my computer science fundamentals through **C**, data structures, memory management, and system-level programming.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20to%20my%20GitHub&fontAlign=50&fontAlignY=35&fontSize=28&animation=fadeIn" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a software engineering student in New York City, building practical applications with **C#**, **Swift**, **Java**, **TypeScript**, and **SQL**.
+
+I enjoy developing real-world software projects while strengthening my understanding of computer science fundamentals, application architecture, database design, and user-centered interfaces.
 
 ---
 
 ## 🚀 Featured Projects
 
 - ⚾ **JojiStats**  
-  A baseball statistics management web app built with React, TypeScript, Tailwind CSS, and Supabase.
+  A baseball statistics management web app built with React, TypeScript, Tailwind CSS, Supabase, and PostgreSQL.
 
 - 📱 **Taplingo**  
   An iOS English expression quiz app built with SwiftUI and SQLite.
 
 - 🐾 **MatchPaw**  
-  An animal shelter management system designed for managing animals, adoption applications, and shelter staff workflows.
+  An animal shelter management system designed for managing animal records, adoption applications, and role-based staff workflows.
 
 - 🏥 **Hospital Management System**  
   A full-stack application using C#/.NET, SQL, and SwiftUI.
 
 ---
 
-## 🧠 Currently Learning
+<div align="center">
 
-- Low-level programming with C
-- Data structures and algorithms
-- Full-stack development with .NET
-- SwiftUI app development
-- Database design with SQL
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&center=true&vCenter=true&width=800&lines=React+%2B+TypeScript+%2B+Supabase;SwiftUI+%2B+SQLite;C%23+%2B+.NET+%2B+SQL;Clean+UI+%2B+Practical+Software" />
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Summary
 
-### Languages
+### Languages & Databases
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,swift,ts,mysql,postgres" />
+</p>
 
 ### Frameworks & Tools
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,supabase,dotnet,git,github,visualstudio,vscode,xcode,vercel,linux" />
+</p>
 
 ---
 
-## 🌱 Focus Areas
+## 🧠 Core Concepts
 
-- Building practical full-stack applications
-- Designing clean database structures
-- Improving problem-solving with data structures and algorithms
-- Creating mobile apps with SwiftUI
-- Strengthening low-level programming skills with C
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2300&pause=900&center=true&vCenter=true&width=850&lines=MVVM+Architecture;REST+API+Design;Object-Oriented+Programming;Authentication+%26+Role-Based+Access+Control;Database+Design;UI%2FUX+Design" />
+</p>
+
+- MVVM Architecture
+- REST API Design
+- Object-Oriented Programming
+- Authentication
+- Role-Based Access Control
+- Database Design
+- UI/UX Design
+
+---
+
+## 🌱 Currently Learning
+
+- Data structures and algorithms
+- Full-stack development with .NET
+- SwiftUI and UIKit app development
+- Backend API design
+- Database-driven application development
 
 ---
 
-## 🎸 Outside of Code
+## 🌐 Languages
 
-- Bass guitar: Fender Jazz Bass & Music Man StingRay
-- Chess and Shogi
-- Strength training toward BIG3 goals:
-  - Squat: 225 lbs
-  - Bench: 175 lbs
-  - Deadlift: 275 lbs
+- Japanese — Native
+- English — Professional Working Proficiency
 
 ---
+
+## 🤝 Soft Skills
+
+- Team Collaboration
+- Time Management
+- Adaptability
+
+---
+
+## 🎸 Interests
+
+- Strategy Games: Chess and Shogi
+- Bass Guitar
+- Weight Training
+- Baseball
+
+---
+
+<div align="center">
+
+## 📊 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jojicoder&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jojicoder&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jojicoder&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
 
 ## 📫 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/joji-kashimura-765525196/)  
+
 📍 New York, NY
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
+
+</div>
