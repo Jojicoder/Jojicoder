@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,24,30&text=Jojicoder&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Software%20Engineering%20Student%20in%20New%20York&descAlignY=58&descSize=16&animation=twinkling&stroke=00000000" width="100%"/>
+<!-- ▼ カスタムアニメSVG（assets/header.svg をリポジトリに置いてください） -->
+<img src="https://raw.githubusercontent.com/Jojicoder/Jojicoder/main/assets/header.svg" width="100%" alt="animated header" />
 
 # Hi, I'm Jojicoder 👋
 
