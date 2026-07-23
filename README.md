@@ -10,6 +10,11 @@
 [![Location](https://img.shields.io/badge/New%20York-NY-bb9af7?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Jojicoder)
 [![Status](https://img.shields.io/badge/Status-Building%20Something-F25C54?style=for-the-badge&logo=sparkles&logoColor=white)](https://github.com/Jojicoder)
 
+<br><br>
+
+<!-- Rotating dev quote — no API key needed, updates itself on every page load -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,2,5,10,15,20,25,30" width="100%"/>
@@ -99,6 +104,12 @@ I enjoy developing real-world software projects while strengthening my understan
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,supabase,dotnet,unity,spring,git,github,visualstudio,vscode,xcode,vercel,linux" />
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Clean%20Architecture-✔-7AA2F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game%20Development-Unity-9b59b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-.NET%20%7C%20Spring-512BD4?style=for-the-badge"/>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,5,10,15,20,25,30" width="100%"/>
 
 ## 🧠 Core Concepts
@@ -155,6 +166,15 @@ I enjoy developing real-world software projects while strengthening my understan
 
 <div align="center">
 
+## 📌 Pinned Repositories
+
+<a href="https://github.com/Jojicoder/JojiStats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jojicoder&repo=JojiStats&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Jojicoder/JojiBaseballEngine"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jojicoder&repo=JojiBaseballEngine&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Jojicoder/TapLingo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jojicoder&repo=TapLingo&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Jojicoder/Bunny-Bounce"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jojicoder&repo=Bunny-Bounce&theme=tokyonight&hide_border=true" /></a>
+
+<!-- ↑ Swap the repo= names for whichever repos are actually public on GitHub — private repos or typo'd names will render as "Repository not found" -->
+
 ## 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=Jojicoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
@@ -174,6 +194,12 @@ I enjoy developing real-world software projects while strengthening my understan
 ## 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Jojicoder/Jojicoder/output/github-snake-dark.svg" alt="snake animation" />
+
+<!--
+  The snake above needs a one-time GitHub Actions setup to keep generating itself:
+  https://github.com/Platane/snk — add their workflow to Jojicoder/Jojicoder,
+  it commits the SVG to an "output" branch daily. If it's already set up, ignore this.
+-->
 
 </div>
 
