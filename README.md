@@ -26,9 +26,13 @@ I enjoy developing real-world software projects while strengthening my understan
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=700&lines=Always+learning%2C+always+building.;Turning+ideas+into+working+software." />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20,24,30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20,24,30&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=7AA2F7&center=true&vCenter=true&width=750&lines=Apps%2C+services%2C+and+game+engines+I've+shipped+or+I'm+building." />
+</div>
 
 ### Apps & Services
 - ⚾ **JojiStats**
@@ -72,6 +76,10 @@ I enjoy developing real-world software projects while strengthening my understan
 
 ## 🛠 Technical Summary
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=BB9AF7&center=true&vCenter=true&width=750&lines=Languages%2C+frameworks%2C+and+tools+I+work+in+day+to+day." />
+</div>
+
 ### Languages & Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,swift,ts,mysql,postgres" />
@@ -82,7 +90,7 @@ I enjoy developing real-world software projects while strengthening my understan
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,supabase,dotnet,unity,spring,git,github,visualstudio,vscode,xcode,vercel,linux" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20,24,30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=6,11,20,24,30" width="100%"/>
 
 ## 🧠 Core Concepts
 
@@ -142,6 +150,8 @@ I enjoy developing real-world software projects while strengthening my understan
 
 <img src="https://github-profile-trophy.vercel.app/?username=Jojicoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&lines=Commits%2C+streaks%2C+and+top+languages+at+a+glance." />
+
 ## 📊 GitHub Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jojicoder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -158,7 +168,7 @@ I enjoy developing real-world software projects while strengthening my understan
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20,24,30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=6,11,20,24,30" width="100%"/>
 
 <div align="center">
 
