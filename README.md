@@ -5,7 +5,7 @@
 
 # Hi, I'm Jojicoder 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+in+New+York;Building+Full-Stack+and+iOS+Applications;C%23+%7C+Swift+%7C+Java+%7C+TypeScript+%7C+SQL;Focused+on+Clean+Design+and+Practical+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+in+New+York;Building+Full-Stack%2C+iOS%2C+and+Game+Projects;C%23+%7C+C%2B%2B+%7C+Swift+%7C+Java+%7C+TypeScript+%7C+SQL;Focused+on+Clean+Design+and+Practical+Software" />
 
 <br>
 
@@ -19,8 +19,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a software engineering student in New York City, building practical applications with **C#**, **Swift**, **Java**, **TypeScript**, and **SQL**.
-I enjoy developing real-world software projects while strengthening my understanding of computer science fundamentals, application architecture, database design, and user-centered interfaces.
+I'm a software engineering student in New York City, building practical applications with **C#**, **C++**, **Swift**, **Java**, **TypeScript**, and **SQL**.
+I enjoy developing real-world software projects while strengthening my understanding of computer science fundamentals, application architecture, database design, and user-centered interfaces. Outside of app development I also build small game engines and prototypes for fun.
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=700&lines=Always+learning%2C+always+building.;Turning+ideas+into+working+software." />
@@ -30,19 +30,42 @@ I enjoy developing real-world software projects while strengthening my understan
 
 ## 🚀 Featured Projects
 
-- ⚾ **JojiStats**  
+### Apps & Services
+- ⚾ **JojiStats**
   A baseball statistics management web app built with React, TypeScript, Tailwind CSS, Supabase, and PostgreSQL.
-- 📱 **Taplingo**  
+- 📱 **Taplingo**
   An iOS English expression quiz app built with SwiftUI and SQLite.
-- 🐾 **MatchPaw**  
-  An animal shelter management system designed for managing animal records, adoption applications, and role-based staff workflows.
-- 🏥 **Hospital Management System**  
+- ⏱ **FOCUS**
+  An iOS Pomodoro timer app built with SwiftUI. Uses the physical action of placing the phone face down to start a focus session, helping reduce distractions.
+- 🪐 **SolarSystemApp**
+  A Swift + C++ solar system simulation app with a custom physics engine bridged into SwiftUI.
+- 🐾 **MatchPaw**
+  An animal shelter management system designed for managing animal records, adoption applications, and role-based staff workflows (iOS, backend, and desktop clients).
+- 🏥 **Hospital Management System**
   A full-stack application using C#/.NET, SQL, and SwiftUI.
+- 📦 **Inventory Management Service**
+  A Spring Boot + PostgreSQL backend for order and inventory management, handling stock check → stock deduction → order creation as one safe transaction.
+- 📺 **AniTrack**
+  An anime and manga tracking project with two separate versions.
+
+### Games & Engines
+- 🐇 **Bunny Bounce**
+  A 2D browser game built in Unity and shipped to WebGL, with hazard/enemy spawning systems and stage progression.
+- ⚔️ **Joji Tactics Engine**
+  A C++ turn-based tactical RPG engine inspired by Fire Emblem-style SRPGs.
+- ⚾ **JojiBaseballEngine**
+  A C++ baseball simulation engine focused on realistic pitch-by-pitch gameplay, batted-ball physics, fielding resolution, runner advancement, league/season simulation, and SFML visualization.
+- 🏰 **JojiKingdomEngine**
+  A C++ kingdom simulation engine.
+- 🗺️ **JojiFrontier**
+  A browser-playable fantasy tactics RPG prototype with Fire Emblem-inspired classes, deterministic damage, and expedition-based combat.
+- 📖 **JojiWorldBible**
+  A shared setting repository for every "Joji" game project — owns no code, only the world, kingdoms, and naming/tone conventions that keep them consistent across projects.
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&color=7AA2F7&center=true&vCenter=true&width=800&lines=React+%2B+TypeScript+%2B+Supabase;SwiftUI+%2B+SQLite;C%23+%2B+.NET+%2B+SQL;Clean+UI+%2B+Practical+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&color=7AA2F7&center=true&vCenter=true&width=800&lines=React+%2B+TypeScript+%2B+Supabase;SwiftUI+%2B+SQLite;C%23+%2B+.NET+%2B+SQL;C%2B%2B+Game+Engines+%2B+Unity;Clean+UI+%2B+Practical+Software" />
 </div>
 
 ---
@@ -56,7 +79,7 @@ I enjoy developing real-world software projects while strengthening my understan
 
 ### Frameworks & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,supabase,dotnet,git,github,visualstudio,vscode,xcode,vercel,linux" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,supabase,dotnet,unity,spring,git,github,visualstudio,vscode,xcode,vercel,linux" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20,24,30" width="100%"/>
@@ -64,7 +87,7 @@ I enjoy developing real-world software projects while strengthening my understan
 ## 🧠 Core Concepts
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2300&pause=900&color=BB9AF7&center=true&vCenter=true&width=850&lines=MVVM+Architecture;REST+API+Design;Object-Oriented+Programming;Authentication+%26+Role-Based+Access+Control;Database+Design;UI%2FUX+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2300&pause=900&color=BB9AF7&center=true&vCenter=true&width=850&lines=MVVM+Architecture;REST+API+Design;Object-Oriented+Programming;Authentication+%26+Role-Based+Access+Control;Database+Design;UI%2FUX+Design;Game+Engine+Architecture" />
 </p>
 
 - MVVM Architecture
@@ -74,13 +97,14 @@ I enjoy developing real-world software projects while strengthening my understan
 - Role-Based Access Control
 - Database Design
 - UI/UX Design
+- Game Engine Architecture
 
 ---
 
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=7AA2F7&center=true&vCenter=true&width=750&lines=Data+structures+and+algorithms;Full-stack+development+with+.NET;SwiftUI+and+UIKit+app+development;Backend+API+design;Database-driven+application+development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=7AA2F7&center=true&vCenter=true&width=750&lines=Data+structures+and+algorithms;Full-stack+development+with+.NET;SwiftUI+and+UIKit+app+development;Backend+API+design;Database-driven+application+development;Game+engine+and+simulation+programming+in+C%2B%2B" />
 </p>
 
 - Data structures and algorithms
@@ -88,6 +112,7 @@ I enjoy developing real-world software projects while strengthening my understan
 - SwiftUI and UIKit app development
 - Backend API design
 - Database-driven application development
+- Game engine and simulation programming in C++
 
 ---
 
