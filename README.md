@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,5,10,15,20,25,30&section=header&fontColor=ffffff&text=Jojicoder&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20of%20Apps%2C%20APIs%20%26%20Game%20Engines&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,5,10,15,20,25,30&section=header&fontColor=ffffff&text=Jojicoder&fontSize=60&fontAlignY=38" width="100%"/>
 
 <div align="center">
 
@@ -9,11 +9,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Jojicoder&label=Profile+Views&color=7aa2f7&style=for-the-badge)](https://github.com/Jojicoder)
 [![Location](https://img.shields.io/badge/New%20York-NY-bb9af7?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Jojicoder)
 [![Status](https://img.shields.io/badge/Status-Building%20Something-F25C54?style=for-the-badge&logo=sparkles&logoColor=white)](https://github.com/Jojicoder)
-
-<br><br>
-
-<!-- Rotating dev quote — no API key needed, updates itself on every page load -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 
 </div>
 
