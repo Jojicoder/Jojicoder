@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,5,10,15,20,25,30&section=header&animation=twinkling&fontColor=ffffff&text=Jojicoder&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20of%20Apps%2C%20APIs%20%26%20Game%20Engines&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,5,10,15,20,25,30&section=header&fontColor=ffffff&text=Jojicoder&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20of%20Apps%2C%20APIs%20%26%20Game%20Engines&descAlignY=58&descSize=20" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=F7B267,F4845F,F25C54,BB9AF7,7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=60&lines=Software+Engineering+Student+in+New+York;Building+Full-Stack%2C+iOS%2C+and+Game+Projects;C%23+%7C+C%2B%2B+%7C+Swift+%7C+Java+%7C+TypeScript+%7C+SQL;Focused+on+Clean+Design+and+Practical+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=F7B267,F4845F,F25C54,BB9AF7,7AA2F7&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+in+New+York;Building+Full-Stack%2C+iOS%2C+and+Game+Projects;C%23+%7C+C%2B%2B+%7C+Swift+%7C+Java+%7C+TypeScript+%7C+SQL;Focused+on+Clean+Design+and+Practical+Software" />
 
 <br>
 
@@ -34,38 +34,38 @@ I enjoy developing real-world software projects while strengthening my understan
 ### 💼 Apps & Services
 - ⚾ **JojiStats**
   A baseball statistics management web app built with React, TypeScript, Tailwind CSS, Supabase, and PostgreSQL.
-  <br>![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+  <br>![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 - 📱 **Taplingo**
   An iOS English expression quiz app built with SwiftUI and SQLite.
-  <br>![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+  <br>![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 - ⏱ **FOCUS**
   An iOS Pomodoro timer app built with SwiftUI. Uses the physical action of placing the phone face down to start a focus session, helping reduce distractions.
-  <br>![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+  <br>![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
 - 🪐 **SolarSystemApp**
   A Swift + C++ solar system simulation app with a custom physics engine bridged into SwiftUI.
-  <br>![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+  <br>![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 - 🐾 **MatchPaw**
   An animal shelter management system designed for managing animal records, adoption applications, and role-based staff workflows (iOS, backend, and desktop clients).
-  <br>![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+  <br>![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 - 🏥 **Hospital Management System**
   A full-stack application using C#/.NET, SQL, and SwiftUI.
-  <br>![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+  <br>![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
 - 📦 **Inventory Management Service**
   A Spring Boot + PostgreSQL backend for order and inventory management, handling stock check → stock deduction → order creation as one safe transaction.
-  <br>![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+  <br>![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 - 📺 **AniTrack**
   An anime and manga tracking project with two separate versions.
 
 ### 🎮 Games & Engines
 - 🐇 **Bunny Bounce**
   A 2D browser game built in Unity and shipped to WebGL, with hazard/enemy spawning systems and stage progression.
-  <br>![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+  <br>![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 - ⚔️ **Joji Tactics Engine**
   A C++ turn-based tactical RPG engine inspired by Fire Emblem-style SRPGs.
   <br>![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 - ⚾ **JojiBaseballEngine**
   A C++ baseball simulation engine focused on realistic pitch-by-pitch gameplay, batted-ball physics, fielding resolution, runner advancement, league/season simulation, and SFML visualization.
-  <br>![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)![SFML](https://img.shields.io/badge/-SFML-8CC445?style=flat-square)
+  <br>![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SFML](https://img.shields.io/badge/-SFML-8CC445?style=flat-square)
 - 🏰 **JojiKingdomEngine**
   A C++ kingdom simulation engine.
   <br>![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
