@@ -188,13 +188,20 @@ I enjoy developing real-world software projects while strengthening my understan
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Jojicoder/Jojicoder/output/github-snake-dark.svg" alt="snake animation" />
-
-<!--
-  The snake above needs a one-time GitHub Actions setup to keep generating itself:
-  https://github.com/Platane/snk — add their workflow to Jojicoder/Jojicoder,
-  it commits the SVG to an "output" branch daily. If it's already set up, ignore this.
--->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Jojicoder/Jojicoder/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Jojicoder/Jojicoder/output/github-snake.svg"
+  />
+  <img
+    alt="Joji's GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Jojicoder/Jojicoder/output/github-snake.svg"
+  />
+</picture>
 
 </div>
 
