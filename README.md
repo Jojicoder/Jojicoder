@@ -163,10 +163,10 @@ I enjoy developing real-world software projects while strengthening my understan
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/Jojicoder/Jojistats-app"><img align="center" src="https://github-readme-stats-drab-eight.vercel.app/api/pin/?username=Jojicoder&repo=Jojistats-app&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Jojicoder/BaseballEngine"><img align="center" src="https://github-readme-stats-drab-eight.vercel.app/api/pin/?username=Jojicoder&repo=BaseballEngine&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Jojicoder/TapLingo"><img align="center" src="https://github-readme-stats-drab-eight.vercel.app/api/pin/?username=Jojicoder&repo=TapLingo&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Jojicoder/Bunny-Bounce"><img align="center" src="https://github-readme-stats-drab-eight.vercel.app/api/pin/?username=Jojicoder&repo=Bunny-Bounce&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Jojicoder/Jojistats-app"><img align="center" src="https://repopulse-one.vercel.app/api/card/repo?repo=Jojicoder/Jojistats-app&theme=carbon" /></a>
+<a href="https://github.com/Jojicoder/BaseballEngine"><img align="center" src="https://repopulse-one.vercel.app/api/card/repo?repo=Jojicoder/BaseballEngine&theme=carbon" /></a>
+<a href="https://github.com/Jojicoder/TapLingo"><img align="center" src="https://repopulse-one.vercel.app/api/card/repo?repo=Jojicoder/TapLingo&theme=carbon" /></a>
+<a href="https://github.com/Jojicoder/Bunny-Bounce"><img align="center" src="https://repopulse-one.vercel.app/api/card/repo?repo=Jojicoder/Bunny-Bounce&theme=carbon" /></a>
 
 ## 🏆 GitHub Trophies
 
@@ -176,10 +176,10 @@ I enjoy developing real-world software projects while strengthening my understan
 
 ## 📊 GitHub Activity
 
-<img src="https://github-readme-stats-drab-eight.vercel.app/api?username=Jojicoder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://ghstats.dev/api/card?username=Jojicoder&theme=tokyonight&hide_border=true&show_icons=true" height="165" />
 <img src="https://streak-stats.demolab.com?user=Jojicoder&theme=tokyonight&hide_border=true" height="165" />
 
-<img src="https://github-readme-stats-drab-eight.vercel.app/api/top-langs/?username=Jojicoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+<img src="https://ghstats.dev/api/langs?username=Jojicoder&theme=tokyonight&hide_border=true&layout=compact&max_langs=8" height="165" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jojicoder&theme=tokyo-night&hide_border=true&area=true" width="90%" />
 
