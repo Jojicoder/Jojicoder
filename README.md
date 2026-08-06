@@ -163,10 +163,40 @@ I enjoy developing real-world software projects while strengthening my understan
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/Jojicoder/Jojistats-app"><img align="center" src="https://repopulse-one.vercel.app/api/card/repo?repo=Jojicoder/Jojistats-app&theme=carbon" /></a>
-<a href="https://github.com/Jojicoder/BaseballEngine"><img align="center" src="https://repopulse-one.vercel.app/api/card/repo?repo=Jojicoder/BaseballEngine&theme=carbon" /></a>
-<a href="https://github.com/Jojicoder/TapLingo"><img align="center" src="https://repopulse-one.vercel.app/api/card/repo?repo=Jojicoder/TapLingo&theme=carbon" /></a>
-<a href="https://github.com/Jojicoder/Bunny-Bounce"><img align="center" src="https://repopulse-one.vercel.app/api/card/repo?repo=Jojicoder/Bunny-Bounce&theme=carbon" /></a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jojicoder/Jojistats-app"><strong>Jojistats-app</strong></a>
+      <br>
+      Baseball statistics management web application for amateur baseball teams.
+      <br><br>
+      <code>TypeScript</code> <code>React</code> <code>Supabase</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jojicoder/BaseballEngine"><strong>BaseballEngine</strong></a>
+      <br>
+      C++ baseball simulation engine focused on pitch-by-pitch gameplay and season simulation.
+      <br><br>
+      <code>C++</code> <code>Simulation</code> <code>Game Engine</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jojicoder/TapLingo"><strong>TapLingo</strong></a>
+      <br>
+      iOS English expression quiz app built with SwiftUI and local data storage.
+      <br><br>
+      <code>Swift</code> <code>SwiftUI</code> <code>SQLite</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jojicoder/Bunny-Bounce"><strong>Bunny-Bounce</strong></a>
+      <br>
+      2D browser game built in Unity and shipped to WebGL.
+      <br><br>
+      <code>Unity</code> <code>C#</code> <code>WebGL</code>
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 
