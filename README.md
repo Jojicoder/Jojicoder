@@ -163,12 +163,10 @@ I enjoy developing real-world software projects while strengthening my understan
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/Jojicoder/JojiStats"><img align="center" src="https://github-readme-stats-eight-gules.vercel.app/api/pin/?username=Jojicoder&repo=JojiStats&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Jojicoder/JojiBaseballEngine"><img align="center" src="https://github-readme-stats-eight-gules.vercel.app/api/pin/?username=Jojicoder&repo=JojiBaseballEngine&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Jojicoder/TapLingo"><img align="center" src="https://github-readme-stats-eight-gules.vercel.app/api/pin/?username=Jojicoder&repo=TapLingo&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Jojicoder/Bunny-Bounce"><img align="center" src="https://github-readme-stats-eight-gules.vercel.app/api/pin/?username=Jojicoder&repo=Bunny-Bounce&theme=tokyonight&hide_border=true" /></a>
-
-<!-- ↑ Swap the repo= names for whichever repos are actually public on GitHub — private repos or typo'd names will render as "Repository not found" -->
+<a href="https://github.com/Jojicoder/Jojistats-app"><img align="center" src="https://github-readme-stats-drab-eight.vercel.app/api/pin/?username=Jojicoder&repo=Jojistats-app&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Jojicoder/BaseballEngine"><img align="center" src="https://github-readme-stats-drab-eight.vercel.app/api/pin/?username=Jojicoder&repo=BaseballEngine&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Jojicoder/TapLingo"><img align="center" src="https://github-readme-stats-drab-eight.vercel.app/api/pin/?username=Jojicoder&repo=TapLingo&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/Jojicoder/Bunny-Bounce"><img align="center" src="https://github-readme-stats-drab-eight.vercel.app/api/pin/?username=Jojicoder&repo=Bunny-Bounce&theme=tokyonight&hide_border=true" /></a>
 
 ## 🏆 GitHub Trophies
 
@@ -178,10 +176,10 @@ I enjoy developing real-world software projects while strengthening my understan
 
 ## 📊 GitHub Activity
 
-<img src="https://github-readme-stats-eight-gules.vercel.app/api?username=Jojicoder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats-drab-eight.vercel.app/api?username=Jojicoder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
 <img src="https://streak-stats.demolab.com?user=Jojicoder&theme=tokyonight&hide_border=true" height="165" />
 
-<img src="https://github-readme-stats-eight-gules.vercel.app/api/top-langs/?username=Jojicoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+<img src="https://github-readme-stats-drab-eight.vercel.app/api/top-langs/?username=Jojicoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jojicoder&theme=tokyo-night&hide_border=true&area=true" width="90%" />
 
